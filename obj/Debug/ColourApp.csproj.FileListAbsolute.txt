@@ -1,0 +1,12 @@
+c:\users\ben200045\documents\visual studio 2017\Projects\ColourApp\ColourApp\bin\Debug\ColourApp.exe.config
+c:\users\ben200045\documents\visual studio 2017\Projects\ColourApp\ColourApp\bin\Debug\ColourApp.exe
+c:\users\ben200045\documents\visual studio 2017\Projects\ColourApp\ColourApp\bin\Debug\ColourApp.pdb
+c:\users\ben200045\documents\visual studio 2017\Projects\ColourApp\ColourApp\bin\Debug\Newtonsoft.Json.dll
+c:\users\ben200045\documents\visual studio 2017\Projects\ColourApp\ColourApp\bin\Debug\Newtonsoft.Json.xml
+c:\users\ben200045\documents\visual studio 2017\Projects\ColourApp\ColourApp\obj\Debug\ColourApp.csprojResolveAssemblyReference.cache
+c:\users\ben200045\documents\visual studio 2017\Projects\ColourApp\ColourApp\obj\Debug\ColourApp.Properties.Resources.resources
+c:\users\ben200045\documents\visual studio 2017\Projects\ColourApp\ColourApp\obj\Debug\ColourApp.csproj.GenerateResource.Cache
+c:\users\ben200045\documents\visual studio 2017\Projects\ColourApp\ColourApp\obj\Debug\ColourApp.csproj.CoreCompileInputs.cache
+c:\users\ben200045\documents\visual studio 2017\Projects\ColourApp\ColourApp\obj\Debug\ColourApp.exe
+c:\users\ben200045\documents\visual studio 2017\Projects\ColourApp\ColourApp\obj\Debug\ColourApp.pdb
+c:\users\ben200045\documents\visual studio 2017\Projects\ColourApp\ColourApp\obj\Debug\ColourApp.Form1.resources
